@@ -7,37 +7,37 @@ The system has three profiles- the administrator, the therapist, and the patient
   1. Admin can:
   
   
-    - add, edit and delete the therapist records
-    
-    - schedule new and remove sessions
-    
-    - view patient details
-    
-    - view bookings of patients
+  - add, edit and delete the therapist records
+  
+  - schedule new and remove sessions
+  
+  - view patient details
+  
+  - view bookings of patients
  
  
   2. Therapists can:
   
   
-    - view their appointments and scheduled sessions
-       
-    - view details of patients
-    
-    - edit account settings
+  - view their appointments and scheduled sessions
+      
+  - view details of patients
+  
+  - edit account settings
 
-    - delete their account
+  - delete their account
 
     
   3. Patients/Clients can:
   
   
-    - create and account and make appointments online
-        
-    - view their old bookings
+  - create and account and make appointments online
+      
+  - view their old bookings
 
-    - edit account settings
+  - edit account settings
 
-    - delete their account
+  - delete their account
     
     
     
@@ -51,7 +51,7 @@ Admin, doctors and patients all require the same login credentials.
 
 1. Make sure you have Node, npm and XAMPP installed.
 
-2. In the command line of the main folder, run the command: 
+2. In the command line of the main folder, run the command 
 ```sh
 npm i express socket.io nodemon
 ``` 
